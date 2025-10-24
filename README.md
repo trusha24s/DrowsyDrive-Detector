@@ -37,16 +37,13 @@ If the driver is found to be **Drowsy** or **Sleepy**, an alert sound is played 
 
 ## 🗂️ File Structure
 
-DrowsyDrive-Detector/
-│
-├── drowsiness_detector.py # Main Python script
-│
-├── Alarm-2-chosic.com_.mp3 # Alarm sound file
-│
-├── shape_predictor_68_face_landmarks.dat # Pre-trained facial landmark model
-│
-├── requirements.txt # List of dependencies
-│
-└── README.md # Project documentation
+DrowsyDrive-Detector/  
+│  
+├── drowsiness_detector.py              # Main Python script  
+├── Alarm-2-chosic.com_.mp3             # Alarm sound file  
+├── shape_predictor_68_face_landmarks.dat  # Pre-trained facial landmark model  
+├── requirements.txt                    # List of dependencies  
+└── README.md                           # Project documentation  
 
+---
 
