@@ -38,6 +38,9 @@ To monitor the driver's alertness over a 10-minute period using webcam-based eye
 DrowsyDrive-Detector/
 │
 ├── drowsiness_detector.py
+│
 ├── Alarm-2-chosic.com_.mp3
+│
 ├── requirements.txt
+│
 └── README.md
